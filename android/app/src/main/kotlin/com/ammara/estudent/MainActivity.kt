@@ -1,4 +1,4 @@
-package com.example.emart_app
+package com.ammara.estudent-student
 
 import io.flutter.embedding.android.FlutterActivity
 
